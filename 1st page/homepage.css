@@ -1,0 +1,57 @@
+body {
+  padding-top: 40px;
+}
+
+.tab {
+    margin: 0px;
+}
+
+.title-section {
+  background-color: #E8E8E8;
+  padding:40px;
+}
+
+.title-section h1 {
+  margin-top: 10px;
+  border: 3px solid #000000;
+  width: 45%;
+  padding: 10px;
+  margin: left;
+}
+
+
+.picture {
+	height: 500px;
+	background-image: url('http://goo.gl/ODpi3y');
+  padding: 50px;
+}
+
+.contact {
+    background-color: #f7f7f7;
+    margin-top: 10px;
+    margin-left: 50px;
+} 
+
+.contact h3 {
+	color: #5a5a5a;
+	margin: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right:10px;
+    text-transform: uppercase;
+}  
+
+.contact a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px;
+  text-transform: uppercase;
+}
+
+.contact li {
+  display: inline;
+}
